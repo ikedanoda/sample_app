@@ -1,0 +1,5 @@
+=== unicorn 4.6.3 - fix --no-default-middleware option / 2013-06-21 08:01 UTC
+
+  Thanks to Micah Chalmer for this fix.  There are also minor
+  documentation updates and internal cleanups.
+

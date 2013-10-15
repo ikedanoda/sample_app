@@ -1,0 +1,4 @@
+/Volumes/data/Dropbox/site_data/rails_vagrant_unicorn/test_app/vendor/bundle/ruby/2.0.0/gems/libv8-3.16.14.3/patches/disable-building-tests.patch
+/Volumes/data/Dropbox/site_data/rails_vagrant_unicorn/test_app/vendor/bundle/ruby/2.0.0/gems/libv8-3.16.14.3/patches/do-not-imply-vfp3-and-armv7.patch
+/Volumes/data/Dropbox/site_data/rails_vagrant_unicorn/test_app/vendor/bundle/ruby/2.0.0/gems/libv8-3.16.14.3/patches/fPIC-for-static.patch
+/Volumes/data/Dropbox/site_data/rails_vagrant_unicorn/test_app/vendor/bundle/ruby/2.0.0/gems/libv8-3.16.14.3/patches/gcc48-wno-unused-local-typedefs.patch
